@@ -30,7 +30,6 @@ namespace Döngüler_for_loop
             Console.WriteLine("Çift Toplam:" + ciftToplam);
 
             //Break
-
             for (int i = 1; i < 10; i++)
             {
                 if (i == 4)
@@ -44,10 +43,7 @@ namespace Döngüler_for_loop
                 if (i == 4)
                     continue;
                     Console.WriteLine(i);
-            }
-
-            
-            
+            } 
         }
     }
 }
