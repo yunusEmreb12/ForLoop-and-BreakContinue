@@ -1,0 +1,1 @@
+(C# For Loop ve Break Continue(Döngüler))[https://app.patika.dev/courses/csharp-101/1-for-dongusu-break-continue]
